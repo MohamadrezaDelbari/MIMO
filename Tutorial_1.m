@@ -1,3 +1,5 @@
+%% Resilient Communication Systems (RCS)
+% Mohamadreza Delbari
 clear variables
 clc
 %_____________Problem 1 (Part a)________________
